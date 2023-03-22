@@ -1,0 +1,16 @@
+{
+  "name": "algorithm-me",
+  "version": "0.1.0",
+  "description": "学习算法",
+  "repository": "git@github.com:alibaba/lowcode-engine.git",
+  "author": "bigmoon929@gmail.com",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.21.3",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}
